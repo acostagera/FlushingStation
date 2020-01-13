@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/jacosta/.platformio/penv/bin:/home/jacosta/.platformio/penv:/home/jacosta/.local/bin:/home/jacosta/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/jacosta/.gem/ruby/2.6.0/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
